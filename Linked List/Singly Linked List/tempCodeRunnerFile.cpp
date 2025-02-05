@@ -1,0 +1,3 @@
+(fast->next == nullptr){
+        //     break;
+        // }
